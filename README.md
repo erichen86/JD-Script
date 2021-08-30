@@ -2,7 +2,8 @@
 ##  目录结构
     JD-Script/                  #JD-Script仓库
     |-- BlueCoin                # 东东超市兑换
-    |-- OpenCrad                # JD入会领豆
+    |-- getFollowGifts          # JD关注有礼
+    |-- OpenCard                # JD入会领豆
     |-- getJDCookie             # JD获取Cookie
     |   
     `-- README.md
